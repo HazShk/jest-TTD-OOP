@@ -1,0 +1,14 @@
+{
+  "name": "jest-ttd-oop",
+  "version": "1.0.0",
+  "description": "Using Jest for Role Playing Game by using OOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Hassan Shaikh",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
